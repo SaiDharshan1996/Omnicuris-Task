@@ -20,3 +20,12 @@
 .App-link {
   color: #09d3ac;
 }
+
+video{
+  height: auto;
+  width: 50%;
+}
+
+button{
+  margin-top: 580px;
+}
